@@ -17,23 +17,7 @@ sites:
     url: https://somilsharma2000.github.io/builder-os-site/
   - name: Gym OS Platform (Base44)
     url: https://my-gym-os.base44.app
-  # --- Client systems ---
   - name: Bettabodies
-    url: https://somilsharma2000.github.io/bettabodies-system/
-  - name: Reds Gym
-    url: https://somilsharma2000.github.io/reds-gym-system/
-  - name: Flex N Tone
-    url: https://somilsharma2000.github.io/flex-n-tone-system/
-  - name: Fight Factory Manchester
-    url: https://somilsharma2000.github.io/fight-factory-manchester-system/
-  - name: Oxigen Fitness Jaipur
-    url: https://somilsharma2000.github.io/oxigen-fitness-digital/
-  - name: IronForge Bengaluru
-    url: https://somilsharma2000.github.io/ironforge-website/
-  - name: Iron Forge Hyderabad
-    url: https://somilsharma2000.github.io/iron-forge-website/
-  - name: PowerHouse Hyderabad
-    url: https://somilsharma2000.github.io/powerhouse-fitness/
 
 # NOTE: the lead-capture API (captureGymLead) is intentionally NOT listed —
 # it currently returns 402 because Base44 integration credits are exhausted,
