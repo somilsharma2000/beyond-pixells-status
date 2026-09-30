@@ -7,7 +7,9 @@ sites:
   # --- Flagships + platform ---
   - name: Brand Hub
     url: https://somilsharma2000.github.io/beyond-pixells/
-  - name: Gym OS Landing
+  - name: Gym OS App (Vercel)
+    url: https://gym-os-v3.vercel.app/
+  - name: Gym OS Landing (redirect)
     url: https://somilsharma2000.github.io/gym-os/
   - name: Dentist OS Landing
     url: https://somilsharma2000.github.io/dentist-os-site/
@@ -15,9 +17,8 @@ sites:
     url: https://somilsharma2000.github.io/dentist-os/
   - name: Builder OS
     url: https://somilsharma2000.github.io/builder-os-site/
-  - name: Gym OS Platform (Base44)
-    url: https://my-gym-os.base44.app
-  - name: Bettabodies
+  - name: Blog
+    url: https://somilsharma2000.github.io/beyond-pixells/blog/
 
 # NOTE: the lead-capture API (captureGymLead) is intentionally NOT listed —
 # it currently returns 402 because Base44 integration credits are exhausted,
@@ -35,4 +36,4 @@ status-website:
     - title: Brand Hub
       href: https://somilsharma2000.github.io/beyond-pixells/
     - title: Gym OS
-      href: https://somilsharma2000.github.io/gym-os/
+      href: https://gym-os-v3.vercel.app/
