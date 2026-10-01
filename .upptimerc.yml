@@ -19,11 +19,13 @@ sites:
     url: https://somilsharma2000.github.io/builder-os-site/
   - name: Blog
     url: https://somilsharma2000.github.io/beyond-pixells/blog/
-
-# NOTE: the lead-capture API (captureGymLead) is intentionally NOT listed —
-# it currently returns 402 because Base44 integration credits are exhausted,
-# which would paint the page permanently red. The agent's daily 8am IST
-# estate review already tracks that endpoint. Add it once credits are reset.
+  # --- Public APIs (OPTIONS preflight = 204 means deployed + reachable, no junk writes) ---
+  - name: Lead API (captureLeadV2)
+    url: https://vesper-923580a1.base44.app/functions/captureLeadV2
+    method: OPTIONS
+  - name: Analytics API (trackEvent)
+    url: https://vesper-923580a1.base44.app/functions/trackEvent
+    method: OPTIONS
 
 status-website:
   baseUrl: /beyond-pixells-status
