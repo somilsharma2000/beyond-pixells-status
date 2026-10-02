@@ -131,18 +131,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/vesper-923580a1.base44.app.ico",
     "slug": "lead-api-capture-lead-v2",
     "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptime": "91.51%",
+    "uptimeDay": "91.51%",
+    "uptimeWeek": "91.51%",
+    "uptimeMonth": "91.51%",
+    "uptimeYear": "91.51%",
     "time": 386,
     "timeDay": 386,
     "timeWeek": 386,
     "timeMonth": 386,
     "timeYear": 386,
     "dailyMinutesDown": {
-      "2026-10-02": 0
+      "2026-10-02": 110
     }
   },
   {
@@ -151,18 +151,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/vesper-923580a1.base44.app.ico",
     "slug": "analytics-api-track-event",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "91.53%",
+    "uptimeDay": "91.53%",
+    "uptimeWeek": "91.53%",
+    "uptimeMonth": "91.53%",
+    "uptimeYear": "91.53%",
     "time": 252,
     "timeDay": 252,
     "timeWeek": 252,
     "timeMonth": 252,
     "timeYear": 252,
     "dailyMinutesDown": {
-      "2026-10-02": 0
+      "2026-10-02": 110
     }
   }
 ]
